@@ -1,3 +1,8 @@
+#判断指定的日期是否为节假日|什么节日|星期几
+#开源地址：https://github.com/Cyril0563/What_Day
+#作者：Cyril0563
+#时间：2022-10-14
+
 # encoding: utf-8
 import sys
 reload(sys)
